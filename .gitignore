@@ -80,3 +80,4 @@ crashlytics.properties
 /fastlane.zip
 /app/src/release/java/io/hypertrack/sendeta/google-services.json
 /app/src/release/java/io/hypertrack/placeline/google-services.json
+/app/src/release/java/io/hypertrack/placeline/key.properties
